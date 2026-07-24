@@ -79,8 +79,8 @@ export default function Home() {
   return (
     <main className="app-shell">
       <aside className="sidebar">
-        <a className="brand" href="#top" aria-label="Clinique home">
-          <span className="brand-mark">+</span><span>clinique</span>
+        <a className="brand" href="#top" aria-label="Medical Case Lab home">
+          <span className="brand-mark">+</span><span>medical case lab</span>
         </a>
 
         <nav aria-label="Main navigation">

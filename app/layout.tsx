@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Clinique — Learn medicine by solving cases",
+  title: "Medical Case Lab — Learn medicine by solving cases",
   description: "A friendly, gamified way to build medical school knowledge one patient at a time.",
   icons: {
     icon: "/favicon.svg",
